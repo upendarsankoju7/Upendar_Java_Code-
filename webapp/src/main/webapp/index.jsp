@@ -3,3 +3,5 @@
 <h1> Docker Deployment Sucessfully Completed  </h1>
 <h1>Kubernites_Working_properly </h1>
 
+<h1>Deleting Files </h1>
+
